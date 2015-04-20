@@ -1,4 +1,4 @@
-(function () {
+﻿(function () {
     "use strict";
     var db_link;
     var usr;
@@ -103,7 +103,6 @@
             }, function error(result) {
                 // Handle error/ apstrādā kļūdu
                 // MyAppCode.setDataErr(result);
-
             });
     }
 
